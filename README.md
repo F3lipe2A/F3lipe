@@ -2,7 +2,7 @@
 
 Sou Felipe Fermino
 
-- Estou estudando na Alura[https://Alura.com.br]
+- Estou estudando na [Alura] (https://Alura.com.br)
   
 ## Estudante
 
